@@ -1,0 +1,7 @@
+sleep_hours_range,extracurricular_activities,avg_exam_score
+"5-7 hours",No,66.9980
+"5-7 hours",Yes,67.3929
+"8-10 hours",No,66.8422
+"8-10 hours",Yes,67.4270
+"Less than 5 hours",No,66.8538
+"Less than 5 hours",Yes,68.1899
